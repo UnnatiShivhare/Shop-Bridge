@@ -8,6 +8,8 @@ ShopBridge Product Service will provide the API Endpoints required to perform th
     Microsoft .Net Framework : Version 3.1.401
 
 # Build and Test
+Please refer the document attached ThinkBridgeDocument.docx in the repository. It contains the DB table Script, time tracking and the Steps with screenshots of testing.
+
 Step 1  : After successfull build, run the Application and Swagger UI will be displayed with POST, GET, PUT and DELETE Operations  
 
 Step 2 : New Products can be created by executing the POST Method. We need to pass a Product Object in order to insert it in the Database.
